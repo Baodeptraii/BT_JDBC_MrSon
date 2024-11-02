@@ -5,6 +5,7 @@ NOTE :
 - Phải kết nối với cơ sở dữ liệu của máy ( MySQL, SQLServer, ... ), mỗi CSDL đều có cách kết nối jdbc khác nhau. => Tự sửa file DBConnect.  
 - Build bằng Maven (quickstart), tự thêm các module, libraries, ... nếu thấy có lỗi.  
 - Sản phẩm được làm từ 50% sức mạnh công nghệ, 30% sức mạnh tình bạn và 20% là debugger chạy bằng cơm.  
-- Sẽ update thêm nếu có lỗi.  
+- Sẽ update thêm nếu có lỗi.
+- Link demo : https://youtube.com/live/6xXqtj-mWlk 
 
 # By Re3on
